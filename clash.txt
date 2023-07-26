@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 新加坡一, server: 139.180.132.247, port: 43210, type: ss, cipher: aes-256-gcm, password: ki3RbVAuq9cXz50l, udp: true}
+  - {name: 新加坡一, server: 149.28.135.238, port: 40855, type: ss, cipher: aes-256-gcm, password: 4tacz6iGlZP5fXdC, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
